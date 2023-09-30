@@ -12,7 +12,7 @@ You will find that I used the following architecture for my model:
     b. FC2 with 50 neurons
 Activation functions is Relu for all layers except the last one which is linear.
 
-Dataset link will be provided later.
+Dataset link: https://drive.google.com/file/d/12o-hgiwib84i63wuTqf-S9MtDADm_GdZ/view?usp=sharing.
 
 Validation Loss for the last run of the notebook is 0.022975530475378036
 
